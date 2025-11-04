@@ -35,3 +35,7 @@ We evaluate the effectiveness of the proposed solution across a variety of 3DPC 
 - ✅ **Reliable estimation** of multiple glass regions
 - ✅ **Accurate virtual point identification**
 - ✅ **Comprehensive qualitative and quantitative evaluations**
+
+Data Download Link:
+通过网盘分享的文件：JapanData
+链接: https://pan.baidu.com/s/1iLQzaH6mTyvM_6XZQ4CPhQ 提取码: s4it
