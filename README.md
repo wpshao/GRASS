@@ -1,7 +1,7 @@
 # GRASS: Glass Reflection Artifact Suppression Strategy via Virtual Point Removal in LiDAR Point Clouds
 
 ## 👥 Authors
-**Wanpeng Shao**<sup>1</sup>, **Yu Zhang**<sup>1</sup>, **Muhua Zhu**, **Fashuai Li**<sup>1</sup>, **Tie Ji**, **Yizhen Lao**<sup>*</sup>
+**Wanpeng Shao**<sup>1</sup>, **Yu Zhang**<sup>1</sup>, YIfeiXue, **Tie Ji**, **Yizhen Lao**<sup>*</sup>
 
 <sup>1</sup> These authors contributed equally to this work.  
 <sup>*</sup> Corresponding author: yizhenlao@hnu.edu.cn
